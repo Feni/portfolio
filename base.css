@@ -1,0 +1,20 @@
+html{
+    height: 100%;
+    width: 100%;
+   
+}
+
+body{
+    background-color:#efefef;
+	border-top:12px solid black;
+	font: normal 1em/1.5 Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif; 
+	padding: 0px;
+	margin: 0px;
+}
+
+#intro{
+    background-color:#1d1d1d;
+    height:400px;
+    
+}
+
