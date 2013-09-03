@@ -6,15 +6,33 @@ html{
 
 body{
     background-color:#efefef;
-	border-top:12px solid black;
-	font: normal 1em/1.5 Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif; 
-	padding: 0px;
-	margin: 0px;
+    border-top:12px solid black;
+    font: normal 1em/1.5 Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif; 
+    padding: 0px;
+    margin: 0px;
 }
 
-#intro{
+section {
+    height: 600px;
+ 
+}
+
+.sectionBg{
+width: 80%;
+margin-left: 10%;
+}
+
+#nav{
+}
+
+#intro {
     background-color:#1d1d1d;
-    height:400px;
-    
+
+
+}
+
+
+#programmer{
+
 }
 

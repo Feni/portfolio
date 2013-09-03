@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3381"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="programming.svg"
+   inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/programming.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3383">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3389" />
+    <inkscape:perspective
+       id="perspective3311"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter4417"
+       inkscape:label="Pencil"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Image effects"
+       inkscape:menu-tooltip="Detect color edges and retrace them in grayscale"
+       color-interpolation-filters="sRGB">
+      <feConvolveMatrix
+         id="feConvolveMatrix4419"
+         bias="0"
+         result="result0"
+         preserveAlpha="true"
+         targetY="1"
+         targetX="1"
+         divisor="1"
+         in="SourceGraphic"
+         kernelMatrix="1 1 1 1 -8 1 1 1 1"
+         order="3 3" />
+      <feColorMatrix
+         id="feColorMatrix4421"
+         values="-0.15 -0.3 -0.05 0 1 -0.15 -0.3 -0.05 0 1 -0.15 -0.3 -0.05 0 1 0 0 0 1 0"
+         result="result3" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4361">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2665403"
+         id="feGaussianBlur4363" />
+    </filter>
+    <inkscape:perspective
+       id="perspective4312"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4335"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4385"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4416"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4441"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4466"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4512"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter3364"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3366"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap3368"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter3370"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3372"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap3374"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter3376"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3378"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap3380"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter3382"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3384"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap3386"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter3388"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3390"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap3392"
+         in2="result91"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter3358"
+       inkscape:label="Roughen"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Small-scale roughening to edges and content"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3360"
+         numOctaves="3"
+         seed="0"
+         type="turbulence"
+         baseFrequency="0.04"
+         result="result91" />
+      <feDisplacementMap
+         in2="result91"
+         id="feDisplacementMap3362"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="SourceGraphic" />
+    </filter>
+    <inkscape:perspective
+       id="perspective4802"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4835"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4857"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="302.8529"
+     inkscape:cy="528.89488"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="728"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3386">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#1d1d1d;fill-opacity:1;stroke:none"
+       id="rect3530"
+       width="808.57141"
+       height="625.71429"
+       x="-24.2857"
+       y="245.21931" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:49.50076294px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="223.32965"
+       y="542.71832"
+       id="text4186"
+       transform="matrix(0.99999576,-0.00291261,0.00291261,0.99999576,0,0)"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4188"
+         x="223.32965"
+         y="542.71832"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier New;-inkscape-font-specification:Courier New">rogramming!</tspan></text>
+    <g
+       id="g4055"
+       transform="matrix(0.8607133,0,0,0.81509526,39.559223,-28.797645)"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#f2f2f2">
+      <text
+         xml:space="preserve"
+         style="font-size:168.45071411px;font-style:normal;font-weight:normal;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="133.04099"
+         y="703.97363"
+         id="text5299"><tspan
+           sodipodi:role="line"
+           id="tspan5301"
+           x="133.04099"
+           y="703.97363"
+           style="fill:#f2f2f2">P</tspan></text>
+      <rect
+         y="580.93365"
+         x="131.42857"
+         height="123.03046"
+         width="20.000002"
+         id="rect3281"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4872">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+         id="text4190"
+         style="font-size:215.3074646px;font-style:normal;font-weight:normal;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         transform="matrix(1.4217136,-0.00879664,0.01778315,0.70326649,14.824399,-156.12837)">
+        <path
+           sodipodi:nodetypes="cccccccccscccccccccccccc"
+           id="path4074"
+           style="font-variant:normal;font-weight:bold;font-stretch:normal;fill:#f2f2f2;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+           d="m 86.874078,994.17792 0,3.88983 -74.537594,0 0,-3.88983 4.730877,0 c 4.135124,0 7.464256,-0.73591 9.987407,-2.20775 1.822243,-0.98121 3.223983,-2.6633 4.205224,-5.04626 0.770934,-1.68208 1.156412,-6.09756 1.156436,-13.24646 l 0,-93.77649 c -2.4e-5,-7.28893 -0.385502,-11.84459 -1.156436,-13.66698 -0.77098,-1.82213 -2.347938,-3.39909 -4.730877,-4.73088 -2.312889,-1.4016 -5.466804,-2.10247 -9.461754,-2.10261 l -4.730877,0 0,-3.88983 74.911168,0.25859 -0.348126,17.9144 c -4.202014,-7.52398 -8.179666,-13.02416 -14.743732,-12.07542 -1.822326,0.98136 -3.259109,2.66345 -4.310354,5.04627 -0.771017,1.68222 -1.156495,6.0977 -1.156437,13.24646 l 0,93.77649 c -5.8e-5,7.28907 0.38542,11.84473 1.156437,13.66698 0.840984,1.82227 2.417941,3.43427 4.730877,4.83601 2.382893,1.33165 5.571851,1.99748 9.566884,1.99748 l 4.730877,0" />
+      </g>
+      <rect
+         y="533.19806"
+         x="102.86012"
+         height="11.071428"
+         width="63.92857"
+         id="rect4060"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:131.2742157px;font-style:normal;font-weight:normal;fill:#1d1d1d;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-303.44882"
+       y="511.29132"
+       id="text5146"
+       transform="matrix(0.73594963,-0.67719679,0.67900081,0.73399431,0,0)"
+       inkscape:transform-center-x="-22.779581"
+       inkscape:transform-center-y="9.2287929"><tspan
+         sodipodi:role="line"
+         id="tspan5148"
+         x="-303.44882"
+         y="511.29132"
+         style="fill:#1d1d1d;fill-opacity:1">♥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:86.91566467px;font-style:normal;font-weight:normal;fill:#d40000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-282.87497"
+       y="510.23166"
+       id="text5146-1-3-0"
+       transform="matrix(0.73497131,-0.6780982,0.6780982,0.73497131,0,0)"
+       inkscape:transform-center-x="13.912364"
+       inkscape:transform-center-y="8.4829784"><tspan
+         sodipodi:role="line"
+         id="tspan5148-0-1-7"
+         x="-282.87497"
+         y="510.23166"
+         style="fill:#d40000">♥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:55.10601425px;font-style:normal;font-weight:normal;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-267.7717"
+       y="514.04688"
+       id="text5146-1-3-0-5-4-9"
+       transform="matrix(0.73497131,-0.6780982,0.6780982,0.73497131,0,0)"
+       inkscape:transform-center-x="-0.93643185"
+       inkscape:transform-center-y="-10.28849"><tspan
+         sodipodi:role="line"
+         id="tspan5148-0-1-7-9-6-2"
+         x="-267.7717"
+         y="514.04688"
+         style="fill:#f2f2f2">♥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:114.96038055px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="542.86823"
+       y="521.72546"
+       id="text3963"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3965"
+         x="542.86823"
+         y="521.72546"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#808080;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch">;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="17.364647"
+       y="443.49115"
+       id="text3967"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3969"
+         x="17.364647"
+         y="443.49115">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="25.741735"
+       y="693.52386"
+       id="text3971"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3973"
+         x="25.741735"
+         y="693.52386">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.37291145000000014px;font-style:normal;font-weight:300;fill:#999999;fill-opacity:1;stroke:none;font-family:Josefin Sans Std;-inkscape-font-specification:Josefin Sans Std Light;font-stretch:normal;font-variant:normal"
+       x="432.61716"
+       y="570.99371"
+       id="text3130"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3132"
+         x="432.61716"
+         y="570.99371">PHP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:69.30083466000000669px;font-style:normal;font-weight:300;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Josefin Sans Std;-inkscape-font-specification:Josefin Sans Std Light;font-stretch:normal;font-variant:normal"
+       x="138.55531"
+       y="623.33563"
+       id="text4108"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4110"
+         x="138.55531"
+         y="623.33563">Java</tspan></text>
+    <g
+       id="g4235"
+       transform="translate(15.834552,-158.12837)"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#4d4d4d;filter:url(#filter3358)">
+      <rect
+         style="font-size:215.3074646px;font-style:normal;font-weight:normal;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="rect4170"
+         width="107.5"
+         height="24.642857"
+         x="35.357143"
+         y="701.29077" />
+      <path
+         d="m 144.49079,795.2198 0.0696,1.95997 -106.668707,0.46986 -0.06965,-1.95997 6.770136,-0.0327 c 5.917582,-0.0285 10.668719,-0.41785 14.253184,-1.17539 2.590198,-0.50589 4.56608,-1.36227 5.927652,-2.56916 1.073152,-0.85241 1.545759,-3.07969 1.417829,-6.68178 l -1.67859,-47.25104 c -0.130568,-3.67267 -0.763704,-5.9657 -1.899587,-6.87908 -1.135945,-0.91326 -3.420914,-1.6979 -6.854913,-2.35393 -3.335,-0.69165 -7.861026,-1.02491 -13.578094,-0.99981 l -6.770224,0.03 -0.06965,-1.95996 107.520444,-0.37666 0.005,2.28266 c -7.85566,-0.1183 -12.2995,0.26995 -21.67618,0.78936 -2.59031,0.50596 -4.75027,1.36258 -6.21202,2.56982 -1.07327,0.85248 -1.54588,3.07973 -1.41784,6.68177 l 1.67859,47.25106 c 0.13043,3.67274 0.76359,5.96574 1.89959,6.8791 1.23613,0.91287 3.52172,1.71516 6.8568,2.40693 3.43393,0.65595 8.00947,0.97132 13.72666,0.94614 l 6.77013,-0.0327"
+         style="font-size:215.3074646px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         id="path4074-8"
+         sodipodi:nodetypes="cccccccccscccccccccccccc" />
+      <rect
+         style="font-size:215.3074646px;font-style:normal;font-weight:normal;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         id="rect4170-2"
+         width="107.5"
+         height="6.0714273"
+         x="37.939285"
+         y="797.21545" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:48.26002502000000050px;font-style:normal;font-weight:normal;fill:#cccccc;fill-opacity:1;stroke:none;filter:url(#filter3388);font-family:Bitstream Vera Sans"
+       x="71.944237"
+       y="581.9624"
+       id="text4112"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4114"
+         x="71.944237"
+         y="581.9624">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:39.87773132px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Josefin Sans Std;-inkscape-font-specification:Josefin Sans Std Light"
+       x="276.59955"
+       y="595.14935"
+       id="text4199"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4201"
+         x="276.59955"
+         y="595.14935">Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.66443252999999913px;font-style:normal;font-weight:300;fill:#999999;fill-opacity:1;stroke:none;font-family:Josefin Sans Std;-inkscape-font-specification:Josefin Sans Std Light;font-stretch:normal;font-variant:normal"
+       x="402.00519"
+       y="635.73376"
+       id="text4203"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4205"
+         x="402.00519"
+         y="635.73376">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.96697998000000140px;font-style:normal;font-weight:300;fill:#808080;fill-opacity:1;stroke:none;font-family:Josefin Sans Std;-inkscape-font-specification:Josefin Sans Std Light;font-stretch:normal;font-variant:normal"
+       x="450.80148"
+       y="602.56256"
+       id="text4207"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4209"
+         x="450.80148"
+         y="602.56256">C++</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.03661346px;font-style:normal;font-weight:normal;fill:#666666;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="526.39941"
+       y="566.64978"
+       id="text4211"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4213"
+         x="526.39941"
+         y="566.64978">&amp; Occasionally...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.70907021000000015px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="578.87531"
+       y="584.66327"
+       id="text4215"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4217"
+         x="578.87531"
+         y="584.66327">English, </tspan><tspan
+         sodipodi:role="line"
+         x="578.87531"
+         y="603.04962"
+         id="tspan4240">Malayalam, </tspan><tspan
+         sodipodi:role="line"
+         x="578.87531"
+         y="621.43597"
+         id="tspan4242">Hindi</tspan><tspan
+         sodipodi:role="line"
+         x="578.87531"
+         y="639.82227"
+         id="tspan4244">&amp; </tspan><tspan
+         sodipodi:role="line"
+         x="578.87531"
+         y="658.20862"
+         id="tspan4246">Spanish</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:33.42405319000000219px;font-style:normal;font-weight:normal;fill:#cccccc;fill-opacity:1;stroke:none;filter:url(#filter3382);font-family:Bitstream Vera Sans"
+       x="102.27444"
+       y="583.42389"
+       id="text4219"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4221"
+         x="102.27444"
+         y="583.42389">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:43.51835632000000231px;font-style:normal;font-weight:normal;fill:#cccccc;fill-opacity:1;stroke:none;filter:url(#filter3376);font-family:Bitstream Vera Sans"
+       x="85.34095"
+       y="614.35144"
+       id="text4223"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4225"
+         x="85.34095"
+         y="614.35144">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32.96329116999999798px;font-style:normal;font-weight:normal;fill:#cccccc;fill-opacity:1;stroke:none;filter:url(#filter3370);font-family:Bitstream Vera Sans"
+       x="109.4111"
+       y="623.59229"
+       id="text4227"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4229"
+         x="109.4111"
+         y="623.59229">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.43103981000000147px;font-style:normal;font-weight:normal;fill:#cccccc;fill-opacity:1;stroke:none;filter:url(#filter3364);font-family:Bitstream Vera Sans"
+       x="96.959763"
+       y="638.68762"
+       id="text4231"
+       inkscape:export-filename="/home/cobalt/Dropbox/Cobalt Labs/Portfolio/test1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4233"
+         x="96.959763"
+         y="638.68762">k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.12525748999999919px;font-style:normal;font-weight:300;fill:#666666;fill-opacity:1;stroke:none;font-family:Josefin Sans Std;-inkscape-font-specification:Josefin Sans Std Light;font-stretch:normal;font-variant:normal"
+       x="474.58273"
+       y="631.90137"
+       id="text3154"><tspan
+         sodipodi:role="line"
+         id="tspan3156"
+         x="474.58273"
+         y="631.90137">Assembly</tspan></text>
+  </g>
+</svg>
