@@ -1,0 +1,143 @@
+html{
+    height: 100%;
+    width: 100%;
+   
+}
+
+body{
+    background-color:#efefef;
+    font: normal 1em/1.5 Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif; 
+    padding: 0px;
+    margin: 0px;
+}
+
+section {
+    height: 600px;
+ 
+}
+
+.sectionBg{
+width: 80%;
+margin-left: 10%;
+}
+
+#intro {
+    background-color:#1d1d1d;
+
+
+}
+
+#programmer{
+
+}
+
+/* Minimal set of componets based off of bootstrap 3 */
+
+.navbar-fixed-top {
+    position: fixed;
+    display: block;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 1001;
+    background-color: rgb(34, 34, 34);
+    border-bottom: 7px solid black;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 3em;
+}
+
+.navbar-title {
+	display: inline;
+	font: normal 1.5rem Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
+	text-decoration: none;
+	color: rgb(232, 232, 232);
+	text-transform: capitalize;
+	font-variant: small-caps;
+	
+    }
+.nav-items-list {
+	list-style-type: none;
+	display: inline;
+    }
+.nav-item {
+	display: inline;
+    }
+
+.nav-item a {
+	font: normal 1rem Arial, Verdana, georgia, times;
+	text-decoration: none;
+	color: rgb(165, 165, 165);
+	padding: 0px 0.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* From startbootstrap */
+
+body {
+margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+
+.full-width-image-1 {
+/* background: url(http://lorempixel.com/g/1920/500/) no-repeat center center; */
+background-size: cover;
+text-align: center;
+}
+
+.full-width-image-2 {
+/* background: url(http://lorempixel.com/g/1920/450/) no-repeat center center; */
+background-size: cover;
+text-align: center;
+height: 450px;
+}
+
+.logo-wrapper {
+padding: 100px inherit;
+display: inline-block;
+}
+
+.section {
+padding-top: 75px;
+padding-bottom: 75px;
+}
+
+.section-heading {
+font-size: 4em;
+margin: 30px 0;
+}
+
+.section-lead {
+margin: 30px 0;
+}
+
+.section-paragraph {
+margin: 30px 0;
+}
+
+footer {
+margin: 50px 0;
+}
+
+@media (max-width: 768px) {
+
+.section-heading {
+font-size: 2em;
+}
+
+.section {
+padding-top: 25px;
+padding-bottom: 25px;
+}
+
+}
