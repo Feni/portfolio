@@ -12,8 +12,15 @@ body{
 }
 
 section {
-    height: 600px;
- 
+    min-height: 600px; 
+}
+
+
+
+article {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .sectionBg{
@@ -23,8 +30,10 @@ margin-left: 10%;
 
 #intro {
     background-color:#1d1d1d;
+}
 
-
+#intro hr{
+    border-color: rgba(40, 40, 40, 0.6);
 }
 
 #programmer{
@@ -69,6 +78,7 @@ margin-left: 10%;
 	text-decoration: none;
 	color: rgb(165, 165, 165);
 	padding: 0px 0.5em;
+	text-transform: uppercase;
 }
 
 
