@@ -1,0 +1,129 @@
+/* Thanks to - Typeplate(.com) by Zachary Kain & Dennis Gaebel for typographic defaults. V 1.0.1 (CC) 3.0 */body {
+    word-wrap: break-word;
+}
+html {
+    font: normal 112.5%/1.65 serif;
+}
+body {
+    color: #444;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-rendering: optimizeLegibility;
+    line-height: 1;
+    margin-top: 0;
+}
+.tera {
+    font-size: 117px;
+    font-size: 6.5rem;
+    margin-bottom: 0.25385rem;
+}
+.giga {
+    font-size: 90px;
+    font-size: 5rem;
+    margin-bottom: 0.33rem;
+}
+.mega {
+    font-size: 72px;
+    font-size: 4rem;
+    margin-bottom: 0.4125rem;
+}
+.alpha, h1 {
+    font-size: 60px;
+    font-size: 3.33333rem;
+    margin-bottom: 0.495rem;
+}
+.beta, h2 {
+    font-size: 48px;
+    font-size: 2.66667rem;
+    margin-bottom: 0.61875rem;
+}
+.gamma, h3 {
+    font-size: 36px;
+    font-size: 2rem;
+    margin-bottom: 0.825rem;
+}
+.delta, h4 {
+    font-size: 24px;
+    font-size: 1.33333rem;
+    margin-bottom: 1.2375rem;
+}
+.epsilon, h5 {
+    font-size: 21px;
+    font-size: 1.16667rem;
+    margin-bottom: 1.41429rem;
+}
+.zeta, h6 {
+    font-size: 18px;
+    font-size: 1rem;
+    margin-bottom: 1.65rem;
+}
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html, body {
+    font-size: 16px;
+}
+body {
+    background: #fff;
+    color: #222;
+    padding: 0;
+    margin: 0;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+}
+a:focus {
+    outline: none;
+}
+img, object, embed {
+    max-width: 100%;
+    height: auto;
+}
+object, embed {
+    height: 100%}
+img {
+    -ms-interpolation-mode: bicubic;
+}
+#map_canvas img, #map_canvas embed, #map_canvas object, .map_canvas img, .map_canvas embed, .map_canvas object {
+    max-width: none !important;
+}
+.left {
+    float: left !important;
+}
+.right {
+    float: right !important;
+}
+.text-left {
+    text-align: left !important;
+}
+.text-right {
+    text-align: right !important;
+}
+.text-center {
+    text-align: center !important;
+}
+.text-justify {
+    text-align: justify !important;
+}
+.hide {
+    display: none;
+}
+img {
+    display: inline-block;
+}
+textarea {
+    height: auto;
+    min-height: 50px;
+}
+select {
+    width: 100%
+}
+
+body {
+    font-family: "Arial", "Times", serif;
+}
