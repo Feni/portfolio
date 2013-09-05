@@ -6,7 +6,7 @@ html{
 }
 
 body{
-    background-color:#efefef;
+/*    background-color:#efefef; */
     font: normal 1em/1.5 Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif; 
     padding: 0px;
     margin: 0px;
@@ -29,10 +29,18 @@ article {
 }
 
 #section-intro {
-    background-color:#1d1d1d;  /* Dark grey */
+  /*  background-color:#1d1d1d;  /* Dark grey */
   /*  background-color: #BF4D28; /* Salmon */
   /*  background-color: #E6AC27; /* Golden */
   /*  background-color: #403B33; /* Brown */
+    margin-top: 150px;
+    font: normal 1.5rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
+    font-weight: 300;
+}
+
+#section-intro h1{
+    font-family: Roboto, Arial; 
+    font-weight: 500;
 }
 
 /* #section-intro hr */
