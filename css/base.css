@@ -13,29 +13,33 @@ body{
 }
 
 section {
-    min-height: 600px; 
+    min-height: 400px; 
+    margin-top: 50px;
+    padding: 50px 0px;
 }
 
-article {
+article, header {
+    font: normal 1.5rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
+    font-weight: 300;
     max-width: 800px;
     margin-left: auto;
+    padding: 0% 5%;
     margin-right: auto;
     overflow: hidden; /* Else the padding beneath a paragraph wraps over to create empty space between sections */
+}
+article {
+    max-width: 450px;
+    display: inline-block;
+    outline: 1px solid black;
+}
+
+#intro-header{
+    margin: 100px auto;
 }
 
 .sectionBg{
     width: 80%;
     margin-left: 10%;
-}
-
-#section-intro {
-  /*  background-color:#1d1d1d;  /* Dark grey */
-  /*  background-color: #BF4D28; /* Salmon */
-  /*  background-color: #E6AC27; /* Golden */
-  /*  background-color: #403B33; /* Brown */
-    margin-top: 150px;
-    font: normal 1.5rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
-    font-weight: 300;
 }
 
 #section-intro h1{
@@ -46,6 +50,15 @@ article {
 /* #section-intro hr */
 hr{
     border-color: rgba(40, 40, 40, 0.6);
+}
+
+#section-school {
+    background-color: rgb(245, 102, 11);
+/*    background-color:#ff6600; */
+/*    background-color: rgb(203, 96, 21); */
+/*    color: #331B05; */
+/*    color: #4B2408; */
+/*    color:#1f1f1f; */
 }
 
 #section-thyself {
