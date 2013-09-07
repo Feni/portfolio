@@ -13,24 +13,33 @@ body{
 }
 
 section {
-    min-height: 400px; 
+/*    min-height: 400px;  */
     margin-top: 50px;
     padding: 50px 0px;
 }
 
-article, header {
+header {
+    max-width: 600px;
+    padding: 0% 5%;
+}
+
+header {
     font: normal 1.5rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
     font-weight: 300;
-    max-width: 800px;
-    margin-left: auto;
-    padding: 0% 5%;
-    margin-right: auto;
-    overflow: hidden; /* Else the padding beneath a paragraph wraps over to create empty space between sections */
 }
 article {
-    max-width: 450px;
+    width: 400px;
+    height: 485px;
     display: inline-block;
     outline: 1px solid black;
+    font: normal 1rem Roboto, Arial, Verdana, georgia, sans-serif;
+    font-weight: 300;
+    margin-right: 10px;
+    vertical-align: bottom;
+}
+
+article h1{
+    font-size: 2.7rem;
 }
 
 #intro-header{
