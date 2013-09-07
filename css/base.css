@@ -1,5 +1,3 @@
-
-
 html{
     height: 100%;
     width: 100%;   
@@ -13,7 +11,6 @@ body{
 }
 
 section {
-/*    min-height: 400px;  */
     margin-top: 50px;
     padding: 50px 0px;
 }
@@ -27,6 +24,7 @@ header {
     font: normal 1.5rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
     font-weight: 300;
 }
+
 article {
     width: 400px;
     height: 485px;
@@ -46,21 +44,6 @@ article h1{
     margin: 100px auto;
 }
 
-.sectionBg{
-    width: 80%;
-    margin-left: 10%;
-}
-
-#section-intro h1{
-    font-family: Roboto, Arial; 
-    font-weight: 500;
-}
-
-/* #section-intro hr */
-hr{
-    border-color: rgba(40, 40, 40, 0.6);
-}
-
 #section-school {
     background-color: rgb(245, 102, 11);
 /*    background-color:#ff6600; */
@@ -70,67 +53,7 @@ hr{
 /*    color:#1f1f1f; */
 }
 
-#section-thyself {
-    background-color: rgb(145, 201, 16);
-}
 
-#section-oscean {
-    background-color: rgb(0, 134, 168);
-}
-
-#programmer{
-
-}
-
-/* Minimal set of componets based off of bootstrap 3 */
-
-.navbar-fixed-top {
-    position: fixed;
-    display: block;
-    top: 0px;
-    right: 0px;
-    left: 0px;
-    z-index: 1001;
-/*    background-color: rgb(19, 19, 19); */
-    background-color: rgb(250, 250, 250);
-   /* border-bottom: 7px solid black; */
-    border-bottom: 5px solid rgb(200, 200, 200);
-    padding-top: 1em;
-    padding-bottom: 1em;
-    padding-left: 3em;
-}
-
-.navbar-title {
-	display: inline;
-	font: normal 1.5rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
-	font-weight: 300;
-	text-decoration: none;
-/*	color: rgb(232, 232, 232); */
-	color: rgb(32, 32, 32);
-	text-transform: capitalize;
-	font-variant: small-caps;
-    }
-.nav-items-list {
-	list-style-type: none;
-	display: inline;
-    }
-.nav-item {
-	display: inline;
-    }
-
-.nav-item a {
-	font: normal 1rem Arial, Verdana, georgia, times;
-	text-decoration: none;
-	color: rgb(165, 165, 165);
-	padding: 0px 0.5em;
-	text-transform: uppercase;
-}
-
-
-
-body {
-    margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
-}
 
 @media (max-width: 768px) {
 
