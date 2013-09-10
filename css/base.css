@@ -12,7 +12,7 @@ body{
 
 section {
     margin-top: 50px;
-    padding: 50px 0px;
+    padding: 50px 5%;
 }
 
 header {
@@ -34,23 +34,52 @@ article {
     font-weight: 300;
     margin-right: 10px;
     vertical-align: bottom;
+/*    padding: 1.5%; */
+    margin-bottom: 20px;
+    background-color: #1d1d1d;
+    color: #fff;
 }
+
+.description {
+    padding: 1.5%;
+}
+
 
 article h1{
     font-size: 2.7rem;
+    text-align: center;
+}
+
+.featuredImg {
+    max-width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.roundImg {
+    border-radius: 50%; 
 }
 
 #intro-header{
-    margin: 100px auto;
+    margin: 100px 10%;
+}
+
+#section-projects {
 }
 
 #section-school {
-    background-color: rgb(245, 102, 11);
+/*    background-color: rgb(245, 102, 11); */
+
 /*    background-color:#ff6600; */
 /*    background-color: rgb(203, 96, 21); */
 /*    color: #331B05; */
 /*    color: #4B2408; */
 /*    color:#1f1f1f; */
+}
+
+#section-school article {
+    border-top: 3px solid rgb(245, 102, 11);
 }
 
 
