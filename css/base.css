@@ -5,6 +5,9 @@ html{
 
 body{
 /*    background-color:#efefef; */
+    color: white;
+    background-color: rgb(29,29,29);
+
     font: normal 1em/1.5 Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif; 
     padding: 0px;
     margin: 0px;
@@ -12,7 +15,7 @@ body{
 
 section {
     margin-top: 50px;
-    padding: 50px 5%;
+    padding: 50px 0%;
 }
 
 header {
@@ -26,19 +29,23 @@ header {
 }
 
 article {
-    width: 400px;
+    width: 100%;
     height: 485px;
     display: inline-block;
-    outline: 1px solid black;
+/*    outline: 1px solid black; */
     font: normal 1rem Roboto, Arial, Verdana, georgia, sans-serif;
     font-weight: 300;
-    margin-right: 10px;
     vertical-align: bottom;
 /*    padding: 1.5%; */
-    margin-bottom: 20px;
+    margin: 20px 0%;
+    padding: 5%;
     background-color: #1d1d1d;
     color: #fff;
+    
 }
+
+.caps:first-letter { float: left; color: #903; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: Georgia; }
+
 
 .description {
     padding: 1.5%;
@@ -79,7 +86,8 @@ article h1{
 }
 
 #section-school article {
-    border-top: 3px solid rgb(245, 102, 11);
+/*    border-top: 3px solid rgb(245, 102, 11); */
+
 }
 
 
