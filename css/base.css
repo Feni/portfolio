@@ -26,6 +26,7 @@ header {
     background-color: rgb(29, 29, 29);
     font: normal 1.5rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
     font-weight: 300;
+    padding: 4.85%;
 }
 
 article {
@@ -38,6 +39,12 @@ article {
     padding: 3%;
     overflow: visible;
     vertical-align: top;
+}
+
+.rounded {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
 }
 
 .important {
