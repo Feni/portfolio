@@ -13,15 +13,19 @@ body{
     margin: 0px;
 }
 
+.centered {
+    text-align: center;
+}
+
 
 section {
     height: 400px;
-    margin-bottom: 3px;
+/*    margin-bottom: 3px; */
 }
 
 header {
     display: inline-block;
-    width: 59%;
+    width: 39%;
     height: 100%;
     background-color: rgb(29, 29, 29);
     font: normal 1.5rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
@@ -30,7 +34,7 @@ header {
 }
 
 article {
-    width: 39%;
+    width: 59%;
     display: inline-block;
     height: 100%;
     font: normal 1rem Roboto, Arial, Verdana, georgia, sans-serif;
@@ -58,6 +62,52 @@ article {
 .semi-important {
     color: #222;
 }
+
+.column1of2 {
+    width: 49%;
+    display: inline-block;
+}
+
+.column2of2 {
+    width: 49%;
+    display: inline-block;
+}
+
+.fullTbl {
+    width: 100%;
+}
+
+.sz1 {
+    font-size: 1em;
+}
+.sz2 {
+    font-size: 0.9em;
+}
+.sz3 {
+    font-size: 0.8em;
+}
+.sz4 {
+    font-size: 0.7em;
+}
+.sz5 {
+    font-size: 0.67em;
+}
+.sz6 {
+    font-size: 0.6em;
+}
+.sz7 {
+    font-size: 0.55em;
+}
+.sz8 {
+    font-size: 0.50em;
+}
+.sz9 {
+    font-size: 0.45em;
+}
+.sz10 {
+    font-size: 0.4em;
+}
+
 
 @media (max-width: 768px) {
 
