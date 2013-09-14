@@ -8,7 +8,7 @@ body{
 /*    background-color: rgb(29,29,29); */
     background-color: white;
 
-    font: normal 1em/1.5 Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif; 
+    font: normal 1em Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif; 
     padding: 0px;
     margin: 0px;
 }
@@ -19,27 +19,27 @@ body{
 
 
 section {
-    height: 400px;
+    height: 600px;
 /*    margin-bottom: 3px; */
 }
 
 header {
     display: inline-block;
-    width: 39%;
+    width: 59%;
     height: 100%;
     background-color: rgb(29, 29, 29);
-    font: normal 1.5rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
+    font: normal 1rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
     font-weight: 300;
     padding: 4.85%;
+    color: #EEE;
 }
 
 article {
-    width: 59%;
+    width: 39%;
     display: inline-block;
     height: 100%;
-    font: normal 1rem Roboto, Arial, Verdana, georgia, sans-serif;
+    font: normal 1.5rem Roboto, Arial, Verdana, georgia, sans-serif;
     font-weight: 300;
-
     padding: 3%;
     overflow: visible;
     vertical-align: top;
@@ -49,6 +49,10 @@ article {
     border-radius: 50%;
     display: block;
     margin: auto;
+}
+
+.fullImg {
+    width: 100%;
 }
 
 .important {
@@ -75,6 +79,31 @@ article {
 
 .fullTbl {
     width: 100%;
+}
+
+.description {
+    font-size: 0.9em;
+    margin: 0px;
+}
+
+.time {
+    font-size: 0.75em;
+}
+.tech {
+    font-size: 0.75em;
+}
+.team {
+    font-size: 0.75em;
+}
+.mentor {
+    font-size: 0.75em;
+}
+.context {
+    font-size: 0.75em;
+}
+
+.details {
+    margin-top: 0px;
 }
 
 .sz1 {
