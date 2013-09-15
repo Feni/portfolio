@@ -21,7 +21,9 @@ body{
 
 
 section {
-    min-height: 700px;
+    min-height: 300px;
+    padding: 5% 0%;
+
 /*    margin-bottom: 3px; */
 }
 
@@ -32,7 +34,7 @@ header {
 /*    background-color: rgb(29, 29, 29); */
     font: normal 1rem Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif;
     font-weight: 300;
-    padding: 4.85%;
+    padding: 0% 5%;
     color: #EEE;
 }
 
@@ -42,13 +44,23 @@ article {
     height: 100%;
     font: normal 1.5rem Roboto, Arial, Verdana, georgia, sans-serif;
     font-weight: 300;
-    padding: 3%;
+/*    padding: 3%; */
     overflow: visible;
     vertical-align: top;
 }
 
 hr {
     border-color: rgb(39, 39, 39);
+}
+
+#intro {
+    font-size: 2em;
+    padding: 10%;
+    width: 100%;
+}
+
+#intro h1 {
+    font-size: 300%;
 }
 
 .rounded {
@@ -74,11 +86,7 @@ hr {
 }
 
 .unimportant {
-    color: rgb(155, 155, 155);
-}
-
-.semi-important {
-    color: #DDD;
+    color: rgb(75, 75, 75);
 }
 
 .column1of2 {
