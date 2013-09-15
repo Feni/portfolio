@@ -55,6 +55,13 @@ article {
     width: 100%;
 }
 
+.screenshot {
+/*  -moz-box-shadow:    3px 3px 5px 6px black;
+  -webkit-box-shadow: 3px 3px 5px 6px black; */
+/*  box-shadow:         0px 12px 6px -8px black; */
+    box-shadow: 7px 7px 7px .7px black;
+}
+
 .important {
     color: rgb(19, 19, 19);
 }
@@ -99,6 +106,9 @@ article {
     font-size: 0.75em;
 }
 .context {
+    font-size: 0.75em;
+}
+.detail {
     font-size: 0.75em;
 }
 
