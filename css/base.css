@@ -21,7 +21,7 @@ body{
 
 
 section {
-    height: 800px;
+    min-height: 700px;
 /*    margin-bottom: 3px; */
 }
 
