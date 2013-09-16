@@ -1,6 +1,7 @@
 html{
     height: 100%;
-    width: 100%;   
+    width: 100%;
+    
 }
 
 body{
@@ -13,6 +14,7 @@ body{
     font: normal 1em Roboto, Arial, Verdana, georgia,times,"times new roman",Sans-Serif,serif; 
     padding: 0px;
     margin: 0px;
+    min-width: 1024px;
 }
 
 .centered {
@@ -84,7 +86,7 @@ hr {
 /*    color: rgb(239, 239, 239); */
     color: rgb(250, 250, 250);
     text-shadow: 0.1em 0.1em 0.1em black;
-    font-weight: 300;
+
 }
 
 .unimportant {
@@ -172,21 +174,12 @@ hr {
     font-size: 0.4em;
 }
 
+#i0 {
+    margin: 40px;
+}
+
+
 
 @media (max-width: 768px) {
-    section {
-	height: 800px;
-	display: block;
-    }
-    header{
-	width: 100%;
-	height: 600px;
-	display: block;
-    }
-    article {
-	width: 100%;
-	display: block;
-	height: 600px;
-    }
 
 }
