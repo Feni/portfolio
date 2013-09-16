@@ -82,7 +82,9 @@ hr {
 
 .important {
 /*    color: rgb(239, 239, 239); */
-    color: white;
+    color: rgb(250, 250, 250);
+    text-shadow: 0.1em 0.1em 0.1em black;
+    font-weight: 300;
 }
 
 .unimportant {
